@@ -23,5 +23,7 @@ I am still not completely comfortable with the media query and responsiveness; h
 Author:
 
 Frontend Mentor - https://www.frontendmentor.io/profile/briannalanford
+
 Twitter- https://twitter.com/fullstackbri
+
 LinkedIn- https://www.linkedin.com/in/briannalanford
