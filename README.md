@@ -7,6 +7,9 @@ Users should be able to view the optimal layout depending on their device's scre
 
 Links:
 
+Solution: https://www.frontendmentor.io/solutions/perfume-card-challenge-Xtl_rGISuD
+Live Site: https://briannalanford.github.io/Perfume-Product-Card/
+
 
 My process:
 HTML
@@ -19,6 +22,7 @@ This challenge was really helpful in buckling down some of the basics of respons
 Continued Development:
 I am still not completely comfortable with the media query and responsiveness; however, these challenges are definitely helping me alot more with understanding it. 
 
+Feedback is always welcome! <3
 
 Author:
 
