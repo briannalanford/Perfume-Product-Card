@@ -8,6 +8,7 @@ Users should be able to view the optimal layout depending on their device's scre
 Links:
 
 Solution: https://www.frontendmentor.io/solutions/perfume-card-challenge-Xtl_rGISuD
+
 Live Site: https://briannalanford.github.io/Perfume-Product-Card/
 
 
